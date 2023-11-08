@@ -9,10 +9,21 @@ RUN chown ${ISC_PACKAGE_MGRUSER}:${ISC_PACKAGE_IRISGROUP} /opt/irisapp
 ####  fix interactive input issues
 RUN echo 'debconf debconf/frontend select Noninteractive' | debconf-set-selections
 
-##### Install Python
-RUN \
-  apt-get update && \
-  apt-get -y install python3 python3-pip
+##### Install Java 8
+RUN apt-get update 
+RUN	apt-get install -y openjdk-8-jdk 
+RUN	apt-get install -y ant
+RUN	apt-get clean 
+
+# Setup for docker commandline
+ENV JAVA_HOME /usr/lib/jvm/java-8-openjdk-amd64/
+RUN export JAVA_HOME
+ENV JRE_HOME /usr/lib/jvm/java-8-openjdk-amd64/
+RUN export JRE_HOME
+ENV CLASSPATH .:/usr/irissys/dev/java/lib/1.8/*
+RUN export CLASSPATH
+
+###########################################
 
 USER ${ISC_PACKAGE_MGRUSER}
 

@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Export generator="Cache" version="25">
-  <Document name="nacl-py.ZPM">
+  <Document name="nacl-jv.ZPM">
     <Module>
-      <Name>nacl-py</Name>
-	  <Description>Use NativeAPI Extension from PY</Description> 
+      <Name>nacl-jv</Name>
+	  <Description>Use NativeAPI Extension from Java</Description> 
       <Version>0.0.5</Version>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
       <Resource Name="dc.MultiD.GBL"/>
-      <Resource Name="nacl.rcc.CLS"/>
-      <Resource Name="nacl.wt.CLS"/>    
     </Module>
   </Document>
 </Export>

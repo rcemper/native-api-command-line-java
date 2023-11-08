@@ -4,11 +4,10 @@ services:
     build: 
       context: .
       dockerfile: Dockerfile
-    hostname: native-api-command-line-py  
-    command: --ISCAgent false
+    command: --ISCAgent false -a /opt/irisapp/src/pre.sh
     restart: always
     ports: 
       - 41773:1972
       - 42773:52773
     volumes:
-      - ./:/irisdev/app
+      - ./:/rcc
