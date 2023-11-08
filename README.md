@@ -1,4 +1,4 @@
-[![objectscriptquality](https://github.com/rcemper/native-api-command-line-py/actions/workflows/objectscript-quality.yml/badge.svg)](https://github.com/rcemper/native-api-command-line-py/actions/workflows/objectscript-quality.yml)   
+[![objectscriptquality](https://github.com/rcemper/native-api-command-line-java/actions/workflows/objectscript-quality.yml/badge.svg)](https://github.com/rcemper/native-api-command-line-java/actions/workflows/objectscript-quality.yml)   
 
 This is the Java Client for IRIS NativeAPI Command Line Extension   
 It demonstrates using the extension without ObjectScript   
