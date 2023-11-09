@@ -98,4 +98,4 @@ Thank you for trying the demo
 
 [Article in DC](https://community.intersystems.com/post/using-nativeapi-command-line-extension-java)
 
-[Video](https://youtu.be/-rtJ0lNHuvk)
+[Video](https://youtu.be/9fMxDNpUag8)
