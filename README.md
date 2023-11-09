@@ -26,7 +26,7 @@ docker-compose up -d --build
 ### How to Test it    
 <p><pre>docker-compose exec iris java rcc
 
-   Welcome to IRIS NaTiveAPI CommandLine Extension
+   Welcome to IRIS NativeAPI CommandLine Extension
 
 \>\>\> serverIP [127.0.0.1]:
 \>\>\> serverPORT [1972]:
