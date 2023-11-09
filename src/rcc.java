@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class rcc {
    
 	public static void main(String[] args) {
-		System.out.println("\n\tWelcome to IRIS NaTiveAPI CommandLine Extension\n") ;
+		System.out.println("\n\tWelcome to IRIS NativeAPI CommandLine Extension\n") ;
 	// init connection
 		String ip   = cmd("serverIP","127.0.0.1") ;
 		String port = cmd("serverPORT","1972") ;
