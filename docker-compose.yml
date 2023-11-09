@@ -4,7 +4,7 @@ services:
     build: 
       context: .
       dockerfile: Dockerfile
-    command: --ISCAgent false -a /opt/irisapp/src/pre.sh
+    command: --ISCAgent false -b /opt/irisapp/src/pre.sh
     restart: always
     ports: 
       - 41773:1972
