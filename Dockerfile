@@ -27,7 +27,7 @@ RUN export CLASSPATH
 
 USER ${ISC_PACKAGE_MGRUSER}
 
-COPY src src
+COPY --chown=${ISC_PACKAGE_MGRUSER} src src
 COPY module.xml module.xml
 COPY iris.script iris.script
 
