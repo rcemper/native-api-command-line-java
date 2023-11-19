@@ -98,7 +98,7 @@ Thank you for trying the demo
 
 if you
 
-<img width="800px" src="https://github.com/rcemper/native-api-command-line-java/assets/146277387/eaadce52-0de8-419c-9548-c5f5126baa15">
+<img width="400px" src="https://github.com/rcemper/native-api-command-line-java/assets/146277387/eaadce52-0de8-419c-9548-c5f5126baa15">
 
 
 
