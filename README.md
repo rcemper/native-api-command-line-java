@@ -96,12 +96,19 @@ Select Demo to exercise
 Thank you for trying the demo
 </pre></p>
 
-if you
+If you prefer to test with **WebTerminal** type
+````
+do ^javademo
+````
+**HINT:**
+This runs in two asynchronous processes. If you miss some output  
+just enter **?** at the prompt to repaint the last display.
 
 <img width="500px" src="https://github.com/rcemper/native-api-command-line-java/assets/146277387/eaadce52-0de8-419c-9548-c5f5126baa15">
-
-
 
 [Article in DC](https://community.intersystems.com/post/using-nativeapi-command-line-extension-java)
 
 [Video](https://youtu.be/9fMxDNpUag8)
+
+[Demo Server SMP](https://nacl-jv.demo.community.intersystems.com/csp/sys/UtilHome.csp)    
+[Demo Server WebTerminal](https://nacl-jv.community.intersystems.com/terminal/)     
