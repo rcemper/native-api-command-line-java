@@ -8,6 +8,7 @@
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
       <Resource Name="dc.MultiD.GBL"/>
+      <Resource Name="javademo.MAC"/>    
       <FileCopy Name="src/rcc.java" Target="${libdir}"/>
     </Module>
   </Document>
