@@ -111,4 +111,4 @@ just enter **?** at the prompt to repaint the last display.
 [Video](https://youtu.be/9fMxDNpUag8)
 
 [Demo Server SMP](https://nacl-jv.demo.community.intersystems.com/csp/sys/UtilHome.csp)    
-[Demo Server WebTerminal](https://nacl-jv.community.intersystems.com/terminal/)     
+[Demo Server WebTerminal](https://nacl-jv.demo.community.intersystems.com/terminal/)     
