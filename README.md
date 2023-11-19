@@ -96,6 +96,14 @@ Select Demo to exercise
 Thank you for trying the demo
 </pre></p>
 
+if you
+
+![image](https://github.com/rcemper/native-api-command-line-java/assets/146277387/eaadce52-0de8-419c-9548-c5f5126baa15)
+
+
+
+
+
 [Article in DC](https://community.intersystems.com/post/using-nativeapi-command-line-extension-java)
 
 [Video](https://youtu.be/9fMxDNpUag8)
