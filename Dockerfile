@@ -40,3 +40,5 @@ COPY iris.script iris.script
 RUN iris start IRIS \
 	&& iris session IRIS < iris.script \
     && iris stop IRIS quietly 
+
+RUN /opt/irisapp/src/pre.sh
