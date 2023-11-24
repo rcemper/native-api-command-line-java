@@ -1,5 +1,4 @@
-[![Quality Gate Status](https://community.objectscriptquality.com/api/project_badges/measure?project=intersystems_iris_community%2Fnative-api-command-line-java&metric=alert_status)](https://community.objectscriptquality.com/dashboard?id=intersystems_iris_community%2Fnative-api-command-line-java)
-
+[![objectscriptquality](https://github.com/rcemper/native-api-command-line-java/actions/workflows/objectscript-quality.yml/badge.svg)](https://github.com/rcemper/native-api-command-line-java/actions/workflows/objectscript-quality.yml)  
 This is the Java Client for IRIS NativeAPI Command Line Extension   
 It demonstrates using the extension without ObjectScript   
 
