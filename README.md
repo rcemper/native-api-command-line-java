@@ -108,7 +108,7 @@ just enter **?** at the prompt to repaint the last display.
 
 [Article in DC](https://community.intersystems.com/post/using-nativeapi-command-line-extension-java)
 
-[Video](https://youtu.be/9fMxDNpUag8)
+[Video](https://www.youtube.com/watch?v=vx3Zep7yDhQ)
 
 [Demo Server SMP](https://nacl-jv.demo.community.intersystems.com/csp/sys/UtilHome.csp)    
 [Demo Server WebTerminal](https://nacl-jv.demo.community.intersystems.com/terminal/)     
