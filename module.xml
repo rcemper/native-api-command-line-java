@@ -4,7 +4,7 @@
     <Module>
       <Name>nacl-jv</Name>
 	  <Description>Use NativeAPI Extension from Java</Description> 
-      <Version>0.0.6</Version>
+      <Version>0.0.4</Version>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
       <Resource Name="dc.MultiD.GBL"/>
