@@ -49,7 +49,8 @@ public class rcc {
 	}
 	// talk to NativeAPI Extension
 	static String act(IRIS iris,String what) {
-		String ans=iris.functionString("x","%ZX",what+" quit 0") ;	
+	// broken	String ans=iris.functionString("x","%ZX",what+" quit 0") ;
+		String ans=iris.classMethodString("%ZX.nacl","x",what+" quit 0") ;
 		return ans ;
 	}
 	// demo menue + exercise
@@ -132,3 +133,4 @@ public class rcc {
     return ;
     }	
 }
+
