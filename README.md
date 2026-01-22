@@ -1,4 +1,6 @@
-[![objectscriptquality](https://github.com/rcemper/native-api-command-line-java/actions/workflows/objectscript-quality.yml/badge.svg)](https://github.com/rcemper/native-api-command-line-java/actions/workflows/objectscript-quality.yml)  
+<img src="https://community.intersystems.com/sites/default/files/inline/images/archived.gif" width=100></img>
+<b>&nbsp;no maintenance or update</b>  
+
 This is the Java Client for IRIS NativeAPI Command Line Extension   
 It demonstrates using the extension without ObjectScript   
 
@@ -111,3 +113,4 @@ just enter **?** at the prompt to repaint the last display.
 
 [Demo Server SMP](https://nacl-jv.demo.community.intersystems.com/csp/sys/UtilHome.csp)    
 [Demo Server WebTerminal](https://nacl-jv.demo.community.intersystems.com/terminal/)     
+
